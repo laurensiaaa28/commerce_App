@@ -1,5 +1,5 @@
 import { products } from "../../utils/data";
-import ProductCard from "../../components/Productcard";
+import ProductCard from "../../components/ProductCard";
 
 export default function Dashboard() {
   return (
